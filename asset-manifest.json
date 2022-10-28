@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ProyectoFinalReact/static/css/main.d62896d1.css",
+    "main.js": "/ProyectoFinalReact/static/js/main.7f1d89e1.js",
+    "static/media/logo_batuk.svg": "/ProyectoFinalReact/static/media/logo_batuk.22d23cffd27cc5f54f6869470351a6ff.svg",
+    "index.html": "/ProyectoFinalReact/index.html",
+    "main.d62896d1.css.map": "/ProyectoFinalReact/static/css/main.d62896d1.css.map",
+    "main.7f1d89e1.js.map": "/ProyectoFinalReact/static/js/main.7f1d89e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62896d1.css",
+    "static/js/main.7f1d89e1.js"
+  ]
+}
